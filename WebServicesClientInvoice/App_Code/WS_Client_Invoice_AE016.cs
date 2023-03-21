@@ -8,7 +8,7 @@ using System.Web.Services;
 /// <summary>
 /// Descripción breve de WS_Client_Invoice_AE016
 /// </summary>
-[WebService(Namespace = "http://tempuri.org/")]
+[WebService(Namespace = "http://WS_Client_Invoice_AE016/")]
 [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
 // Para permitir que se llame a este servicio web desde un script, usando ASP.NET AJAX, quite la marca de comentario de la línea siguiente. 
 // [System.Web.Script.Services.ScriptService]
